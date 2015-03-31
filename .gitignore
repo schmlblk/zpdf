@@ -35,4 +35,4 @@ bower.json
 .powenv
 
 #Ignore Sublime Text
-.sublime*
+*.sublime*
