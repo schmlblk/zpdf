@@ -1,7 +1,7 @@
 require 'iconv'
 
 # USAGE:
-#  This module provides basic methods to send PDF content. Simply include this module 
+#  This module provides basic methods to send PDF content. Simply include this module
 #  in your controller(s):
 #
 #  class InvoiceController < ApplicationController
@@ -11,10 +11,10 @@ require 'iconv'
 #      def show
 #         ...
 #         respond_to do |format|
-#           .... 
-#           format.pdf { 
+#           ....
+#           format.pdf {
 #             send_pdf_content(InvoiceGenerator.invoice(@invoice).pdf_content,
-#                             :file_name => 'invoice.pdf', :force_download => true) 
+#                             :file_name => 'invoice.pdf', :force_download => true)
 #           }
 #           ....
 #         end
@@ -22,10 +22,9 @@ require 'iconv'
 #  end
 #
 
-
 module PdfControllerMethods
 
-#  uncomment and implement if you want to add custom functionality when this module is 
+#  uncomment and implement if you want to add custom functionality when this module is
 #  included.
 #  def self.included(base)
 #    base.class_eval <<-EOV
@@ -33,14 +32,14 @@ module PdfControllerMethods
 #      end
 #    EOV
 #  end
-  
+
   protected
   # convert a file name to ISO-8859-1, so that all browsers correctly parse it.
   def sanitize_file_name(name)
      c = Iconv.new('ISO-8859-15','UTF-8')
      s = c.iconv(name.gsub(/[—–]/,'-'))
-     s.gsub! /^.*(\\|\/)/, ''
-     s.gsub /[\:\*\?\"\<\>\|]/, '_'
+     s.gsub!(/^.*(\\|\/)/, '')
+     s.gsub(/[\:\*\?\"\<\>\|]/, '_')
   end
 
   def send_pdf_content(pdf_content,options = {})
@@ -54,6 +53,5 @@ module PdfControllerMethods
      end
      render :text => pdf_content, :layout => false
   end
-  
 
 end

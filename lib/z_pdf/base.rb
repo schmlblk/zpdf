@@ -2,7 +2,6 @@ require 'z_pdf/html_pdf_object'
 require 'z_pdf/z_pdf_helper'
 
 module ZPdf #:nodoc:
-
   #
   # Example:
   #
@@ -14,8 +13,7 @@ module ZPdf #:nodoc:
   #    end
   #
   #
-  
-  class RenderError < StandardError 
+  class RenderError < StandardError
   end
 
   class MissingTemplate < RenderError
@@ -24,7 +22,7 @@ module ZPdf #:nodoc:
       super("Missing #{part_name} template \"#{template_name}\" in \"#{templates_path}\" for #{generator_class.name} with view_paths: #{paths}")
     end
   end
-  
+
   class Base < AbstractController::Base
     abstract!
 
@@ -46,10 +44,10 @@ module ZPdf #:nodoc:
     }.freeze
 
     class_attribute :default_pdf_params
-    self.default_pdf_params = { 'outline' => true }.freeze 
+    self.default_pdf_params = { 'outline' => true }.freeze
 
-    config_accessor :pdf_views_path, :wkhtmltopdf_path 
-    
+    config_accessor :pdf_views_path, :wkhtmltopdf_path
+
     class << self
 
       def generator_name
@@ -62,7 +60,7 @@ module ZPdf #:nodoc:
         self.default_params = default_params.merge(value).freeze if value
         default_params
       end
-      
+
       def default_pdf(value = nil)
         self.default_pdf_params = default_pdf_params.merge(value).freeze if value
         default_pdf_params
@@ -71,7 +69,7 @@ module ZPdf #:nodoc:
       def respond_to?(method, *args)
         super || action_methods.include?(method.to_s)
       end
-      
+
     protected
 
       def method_missing(method, *args) #:nodoc:
@@ -81,11 +79,11 @@ module ZPdf #:nodoc:
           super
         end
       end
-      
+
     end # class << self
-    
+
     attr_internal :html_pdf
-      
+
     def initialize(method_name, *args)
       super()
       process(method_name, *args)
@@ -95,7 +93,7 @@ module ZPdf #:nodoc:
       lookup_context.skip_default_locale!
       super
     end
-    
+
     def generate(parameters={})
       render_html(parameters)
     end
@@ -109,10 +107,9 @@ module ZPdf #:nodoc:
       @_html_pdf = HtmlPdfObject.new(html_parts,pdf_params)
     end
 
-
     def render_html_parts(params) #:nodoc:
       parts = {}
-      
+
       # TODO : support inline content
       templates_path = params.delete(:template_path) || self.class.generator_name
       template_names = { :content => params.delete(:template_name) || action_name,
