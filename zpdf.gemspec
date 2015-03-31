@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 1.9.2'
 
   s.authors             = ['Charles Bedard', 'Stephane Volet']
-  s.emails              = ['zzeligg@gmail.com', 'steph@zboing.ca']
+  s.email              = ['zzeligg@gmail.com', 'steph@zboing.ca']
   s.homepage            = 'https://rubygems.org/gems/zpdf'
 
   s.files               = Dir['CHANGELOG', 'README.rdoc', 'lib/**/*']
