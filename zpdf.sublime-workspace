@@ -1,0 +1,1884 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"licen",
+				"license"
+			],
+			[
+				"regist",
+				"registered"
+			],
+			[
+				"lay",
+				"laywers"
+			],
+			[
+				"law",
+				"lawyer"
+			],
+			[
+				"res",
+				"reset_password"
+			],
+			[
+				"for",
+				"forgot_password"
+			],
+			[
+				"la",
+				"layouts"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fw",
+				"fw-n	font-weight: normal;"
+			],
+			[
+				"partit",
+				"partition_terms"
+			],
+			[
+				"Fil",
+				"FileUtils"
+			],
+			[
+				"title",
+				"title_en"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"tas",
+				"tas	task :task_name => [:dependent, :tasks] do .. end"
+			],
+			[
+				"asset",
+				"assetTagChange"
+			],
+			[
+				"depon",
+				"deponent"
+			],
+			[
+				"ne",
+				"net_value_for_deponent"
+			],
+			[
+				"liab",
+				"liability_for_defendant"
+			],
+			[
+				"mak",
+				"market_value_for_defendant"
+			],
+			[
+				"marke",
+				"market_value_for_deponent"
+			],
+			[
+				"con",
+				"contribution_by_party_id"
+			],
+			[
+				"p",
+				"party_id"
+			],
+			[
+				"case_file_",
+				"case_file_scenario_path"
+			],
+			[
+				"qcs",
+				"qcs_state"
+			],
+			[
+				"prewon",
+				"preowned_appreciation"
+			],
+			[
+				"pre",
+				"preowned_appreciation"
+			],
+			[
+				"preow",
+				"preowned_appreciation"
+			],
+			[
+				"Par",
+				"Partnership"
+			],
+			[
+				"prop",
+				"property"
+			],
+			[
+				"State",
+				"Statement"
+			],
+			[
+				"type",
+				"Type"
+			],
+			[
+				"Contr",
+				"Contribution"
+			],
+			[
+				"Prop",
+				"Property"
+			],
+			[
+				"update",
+				"update_attribute"
+			],
+			[
+				"pat",
+				"patrimony_states"
+			],
+			[
+				"produce",
+				"produce_patrimony"
+			],
+			[
+				"text_",
+				"text_field"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"party",
+				"party_role"
+			],
+			[
+				"part",
+				"party_role"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"border-left-",
+				"border-left-width:   (property)"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"bot",
+				"border-top"
+			],
+			[
+				"R",
+				"récompenses"
+			],
+			[
+				"patrimony",
+				"patrimony_role"
+			],
+			[
+				"comep",
+				"compensation_details"
+			],
+			[
+				"compe",
+				"compensation"
+			],
+			[
+				"comp",
+				"compensation"
+			],
+			[
+				"patr",
+				"patrimony_state"
+			],
+			[
+				"compen",
+				"compensation"
+			],
+			[
+				"artic",
+				"article_number"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"récomp",
+				"récompense"
+			],
+			[
+				"pa",
+				"patrimony_defendant"
+			],
+			[
+				"patrimo",
+				"patrimony_deponent"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"act",
+				"acquests"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"com",
+				"compensationTr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"re",
+				"reinvestment"
+			],
+			[
+				"prew",
+				"preowned"
+			],
+			[
+				"pr",
+				"preowned_net_value"
+			],
+			[
+				"pro",
+				"preowned_market_value"
+			],
+			[
+				"cont",
+				"contribution_appreciation"
+			],
+			[
+				"el",
+				"elsif	elsif ..."
+			],
+			[
+				"contri",
+				"contribution"
+			],
+			[
+				"lia",
+				"liabilities"
+			],
+			[
+				"mar",
+				"mariage "
+			],
+			[
+				"app",
+				"appreciation"
+			],
+			[
+				"par",
+				"party_name"
+			],
+			[
+				"contribution",
+				"contribution_amount"
+			],
+			[
+				"contribut",
+				"contribution_amount"
+			],
+			[
+				"rei",
+				"reinvestment_deduction"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"fami",
+				"family-partition"
+			],
+			[
+				"edi",
+				"editFamilyPartition"
+			],
+			[
+				"toggle",
+				"toggleDisplays"
+			],
+			[
+				"ed",
+				"editFamilyPartition"
+			],
+			[
+				"family",
+				"family-partition"
+			],
+			[
+				"ass",
+				"assetSummary"
+			],
+			[
+				"dis",
+				"displayOwnership"
+			],
+			[
+				"sc",
+				"scenario"
+			],
+			[
+				"a",
+				"adjustSettlement"
+			],
+			[
+				"dep",
+				"deponent"
+			],
+			[
+				"de",
+				"deponentValue"
+			],
+			[
+				"parti",
+				"partitioned_to"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"d",
+				"deponent"
+			],
+			[
+				"depn",
+				"deponentValue"
+			],
+			[
+				"owner",
+				"ownership"
+			],
+			[
+				"deponen",
+				"deponentValue"
+			],
+			[
+				"split",
+				"splitValue"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"spli",
+				"splitValue"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"own",
+				"ownership"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"check",
+				"check_box"
+			],
+			[
+				"row",
+				"row_class"
+			],
+			[
+				"case",
+				"case_file"
+			],
+			[
+				"prepare",
+				"prepare_case_file_scenario_pdf_form3_path"
+			],
+			[
+				"sign",
+				"signature_date"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"prep",
+				"prepare_data"
+			],
+			[
+				"Re",
+				"régimes"
+			],
+			[
+				"patrim",
+				"patrimony_valuated_on"
+			],
+			[
+				"end",
+				"end_year"
+			],
+			[
+				"date",
+				"date_select"
+			],
+			[
+				"pen",
+				"pensions"
+			],
+			[
+				"tot",
+				"total_deductions"
+			],
+			[
+				"net",
+				"net_value_for_defendant"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "*.rbc\ncapybara-*.html\n.rspec\n/log\n/tmp\n/db/*.sqlite3\n/db/*.sqlite3-journal\n/public/system\n/coverage/\n/spec/tmp\n**.orig\nrerun.txt\npickle-email-*.html\n\n# TODO Comment out these rules if you are OK with secrets being uploaded to the repo\nconfig/initializers/secret_token.rb\nconfig/secrets.yml\n\n## Environment normalisation:\n/.bundle\n/vendor/bundle\n\n# these should all be checked in to normalise the environment:\n# Gemfile.lock, .ruby-version, .ruby-gemset\n\n# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:\n.rvmrc\n\n# if using bower-rails ignore default bower_components path bower.json files\n/vendor/assets/bower_components\n*.bowerrc\nbower.json\n\n# Ignore pow environment settings\n.powenv\n\n#Ignore Sublime Text\n.",
+			"file": "/Users/steph/Sites/zpdf/.gitignore",
+			"file_size": 707,
+			"file_write_time": 130722929050000000,
+			"settings":
+			{
+				"buffer_size": 730,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"emm",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Snippet: ",
+				"Snippet: + Shortcut to Include"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"pckin",
+				"Package Control: Install Package"
+			],
+			[
+				"pck",
+				"Package Control: Install Package"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"xm",
+				"XML Lint: Format"
+			],
+			[
+				"hg",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"hgopm",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"hgo",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"hgopen",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"hgop",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"hgom",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"ct",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"inpac",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Snippet: ruby_block"
+			],
+			[
+				"sublimehg",
+				"Set Syntax: Sublime Hg CLI (New)"
+			],
+			[
+				"ali",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"ti",
+				"TidyHTML"
+			],
+			[
+				"rubo",
+				"Preferences: Rubocop Key Bindings – User"
+			],
+			[
+				"xml",
+				"XML Lint: Format"
+			],
+			[
+				"xmli",
+				"XML Lint: Format"
+			],
+			[
+				"suli",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sulinsho",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"pcli",
+				"Package Control: List Packages"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"deco",
+				"StringEncode: URL Decode"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: List",
+				"Package Control: List Packages"
+			],
+			[
+				"h",
+				"SublimeHg: Open Hg Command Prompt"
+			],
+			[
+				"sy",
+				"Set Syntax: Diff"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2.os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation');",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/steph/Sites/zpdf"
+	],
+	"file_history":
+	[
+		"/Users/steph/Sites/jurifamille/app/views/amounts/_form.html.erb",
+		"/Users/steph/Sites/jurifamille/app/models/asset.rb",
+		"/Users/steph/Sites/jurifamille/public/javascripts/jquery.jf_amounts.js",
+		"/Users/steph/Sites/jurifamille/README",
+		"/Users/steph/Sites/jurifamille/app/views/amounts/_amount.html.erb",
+		"/Users/steph/Sites/jurifamille/app/controllers/admin/sessions_controller.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed/revision2015.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc/revision2015.rb",
+		"/Users/steph/Sites/jurifamille/app/models/administrator.rb",
+		"/Users/steph/Sites/jurifamille/app/models/user.rb",
+		"/Users/steph/Sites/jurifamille/app/controllers/case_files_controller.rb",
+		"/Users/steph/Sites/jurifamille/config/database.yml",
+		"/Users/steph/Sites/jurifamille/lib/tasks/database.rake",
+		"/Users/steph/Sites/jurifamille/config/settings.yml",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed/revision2014.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed/revision2013.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed/revision2008.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed/revision2009.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed/revision2010.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed/revision2011.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed/revision2012.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/fed_para_fiscal_calc.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc_para_fiscal_calc.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc/revision2014.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc/revision2013.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc/revision2010.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc/revision2008.rb",
+		"/Users/steph/Sites/jurifamille/app/models/qcs_rule_set.rb",
+		"/Users/steph/Sites/jurifamille/app/models/qcs_state.rb",
+		"/Users/steph/Sites/jurifamille/app/models/qss_state.rb",
+		"/Users/steph/Sites/jurifamille/app/models/fed_fiscal_rule_set.rb",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/_feedback.html.erb",
+		"/Users/steph/Sites/jurifamille/app/models/fss_state.rb",
+		"/Users/steph/Sites/jurifamille/app/views/public/pages/_fees.fr.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/licenses/new.html.erb",
+		"/Users/steph/Sites/jurifamille/config/locales/en/en.strings.yml",
+		"/Users/steph/Sites/jurifamille/app/models/payment.rb",
+		"/Users/steph/Sites/jurifamille/app/models/party.rb",
+		"/Users/steph/Sites/jurifamille/app/views/public/pages/_fees.en.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/public/pages/_home.en.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/public/pages/_home.fr.html.erb",
+		"/Users/steph/Sites/jurifamille/app/models/interview.rb",
+		"/Users/steph/Sites/jurifamille/test/unit/interview_test.rb",
+		"/Users/steph/Sites/jurifamille/app/views/pdf/fss_guidelines/_individual_net_disposable_income.erb",
+		"/Users/steph/Sites/jurifamille/app/models/patrimony_state.rb",
+		"/Users/steph/Sites/jurifamille/test/fixtures/parties.yml",
+		"/Users/steph/Sites/jurifamille/app/controllers/sessions_controller.rb",
+		"/Users/steph/Sites/jurifamille/solr/conf/solrconfig.xml",
+		"/Users/steph/Sites/jurifamille/lib/stats/payment.rb",
+		"/Users/steph/Sites/jurifamille/app/controllers/admin/payments_controller.rb",
+		"/Users/steph/Sites/jurifamille/config/environment.rb",
+		"/Users/steph/Sites/jurifamille/config/locales/en.strings.yml",
+		"/Users/steph/Sites/jurifamille/Gemfile.lock",
+		"/Users/steph/Sites/jurifamille/Gemfile",
+		"/Users/steph/Sites/jurifamille/Capfile",
+		"/Users/steph/Sites/jurifamille/config/deploy.rb",
+		"/Users/steph/Sites/jurifamille/app/controllers/licenses_controller.rb",
+		"/Users/steph/Sites/jurifamille/app/controllers/accounts_controller.rb",
+		"/Users/steph/Sites/jurifamille/config/settings_example.yml",
+		"/Users/steph/Sites/jurifamille/app/models/case_file.rb",
+		"/Users/steph/Sites/jurifamille/app/models/communication.rb",
+		"/Users/steph/Sites/jurifamille/app/views/admin/licenses/_confirm.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/assets/_compensations.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/assets/_residence.html.erb",
+		"/Users/steph/Sites/jurifamille/test/functional/admin/payments_controller_test.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc/revision2012.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc/revision2011.rb",
+		"/Users/steph/Sites/jurifamille/app/models/rule_sets/qc/revision2009.rb",
+		"/Users/steph/Sites/jurifamille/db/migrate/20090408134937_add_qcs_scenario_reference_to_qss_scenario.rb",
+		"/Users/steph/Sites/jurifamille/Rakefile",
+		"/Users/steph/Sites/jurifamille/db/migrate/20090120140603_remove_qcs_rule_set_id_and_qss_rule_set_id_from_case_file.rb",
+		"/Users/steph/Sites/jurifamille/public/stylesheets/docs.css",
+		"/Users/steph/Sites/jurifamille/public/stylesheets/base.css",
+		"/Users/steph/Sites/jurifamille/public/stylesheets/screen.css",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/_public_nav.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/public/pages/_update.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/application.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/sessions/new.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/sessions/_form.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/public/pages/_posts.html.erb",
+		"/Users/steph/Sites/jurifamille/solr/conf/stopwords_en.txt",
+		"/Users/steph/Sites/jurifamille/test/functional/sessions_controller_test.rb",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/docs/screencast.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/admin/docs/screencasts/new.html.erb",
+		"/Users/steph/Sites/jurifamille/app/controllers/public_controller.rb",
+		"/Users/steph/Sites/jurifamille/lib/open-uri-ssl.rb",
+		"/Users/steph/Sites/jurifamille/lib/sales_tax_rate.rb",
+		"/Users/steph/Sites/jurifamille/config/deploy/staging.rb",
+		"/Users/steph/Sites/jurifamille/db/migrate/20091002195259_update_qss_defined_amounts.rb",
+		"/Users/steph/Sites/jurifamille/app/views/public/pages/_updates.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/public/pages/_post.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/assets/_partnership_of_acquests.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/assets/_pension.html.erb",
+		"/Users/steph/Sites/jurifamille/db/migrate/20131220195408_add_prepared_on_to_qcs_state.rb",
+		"/Users/steph/Sites/jurifamille/app/views/assets/_compensation_details.html.erb",
+		"/Users/steph/Sites/jurifamille/config.ru",
+		"/Users/steph/Sites/jurifamille/script/harvest",
+		"/Users/steph/Sites/jurifamille/test/unit/helpers/admin/communications_helper_test.rb",
+		"/Users/steph/Sites/jurifamille/vendor/gems/zpdf-0.0.1/lib/z_pdf/html_pdf_object.rb",
+		"/Users/steph/Sites/jurifamille/app/helpers/application_helper.rb",
+		"/Users/steph/Sites/jurifamille/db/schema.rb",
+		"/Users/steph/Sites/jurifamille/public/stylesheets/public_packaged.css",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/docs/topic.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/docs.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/public.html.erb",
+		"/Users/steph/Sites/jurifamille/app/helpers/scenarios_helper.rb",
+		"/Users/steph/Sites/jurifamille/app/models/scenario_asset_extension.rb",
+		"/Library/Preferences/SystemConfiguration/com.apple.RemoteAccessServers.plist",
+		"/Users/steph/Downloads/com.apple.RemoteAccessServers.plist",
+		"/Users/steph/Downloads/com.apple.ppp.l2tp.plist",
+		"/Users/steph/Sites/jurifamille/app/views/accounts/new.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/accounts/_new_form.html.erb",
+		"/Users/steph/Sites/jurifamille/app/models/member_lookup.rb",
+		"/Users/steph/Sites/jurifamille/.capistrano/metrics",
+		"/Users/steph/Sites/jurifamille/config/application.rb",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/_app_nav.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/scenarios/qcs/_support_mixed_section_outing_rights.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/scenarios/qcs/_support_mixed_section_shared.html.erb",
+		"/Users/steph/Sites/jurifamille/app/views/scenarios/qcs/_support_mixed_section_sole.html.erb",
+		"/Users/steph/Sites/jurifamille/config/initializers/session_store.rb",
+		"/Users/steph/Sites/jurifamille/app/controllers/pdf/acquests_controller.rb",
+		"/Users/steph/Sites/jurifamille/public/stylesheets/admin.css",
+		"/Users/steph/Sites/jurifamille/public/500.html",
+		"/Users/steph/Sites/jurifamille/public/404.html",
+		"/Users/steph/Sites/jurifamille/public/403.html",
+		"/Users/steph/Sites/jurifamille/public/images/JF_logo_new.svg",
+		"/Users/steph/Sites/jurifamille/app/views/layouts/maintenance.html.erb",
+		"/Users/steph/Sites/jurifamille/public/images/jurifamille_logo.svg"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"",
+			"app/views/assets",
+			"app/views/pdf/form4",
+			"app/views/assets",
+			"app/models",
+			"app/views/assets",
+			"assets",
+			"",
+			"pdf/form4",
+			"pdf/",
+			"",
+			"*.css",
+			"",
+			"*.erb",
+			".erb",
+			"*.scss",
+			"",
+			"*.erb",
+			"",
+			"Résumé",
+			"",
+			"*.css",
+			"*.erb",
+			"",
+			"*.scss",
+			"",
+			"anonymity",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toggleAutoGrossFromNet",
+			"is_admin?",
+			"physic",
+			"disability",
+			"15110",
+			"24490",
+			"94925",
+			"93930",
+			"40365",
+			"39110",
+			"37850",
+			"36590",
+			"35325",
+			"34065",
+			"42785",
+			"36110",
+			"1170",
+			"275",
+			"818",
+			"647",
+			"33145",
+			"nr_ei_benefits_max_credit",
+			"385.71",
+			"743.58",
+			"48600",
+			"169.05",
+			"valid ",
+			"12 months",
+			"300",
+			"id=\"fee_grid\"",
+			"11138",
+			"1127",
+			"136270",
+			"87907",
+			"43953",
+			"validate_card_expiry",
+			"s[",
+			"validate_card_number",
+			"on(",
+			"cc_data_required",
+			"La date d'expiration est invalide",
+			"update_status",
+			"APP_CONFIG",
+			"proceed_to_transaction",
+			"gateway_result",
+			"proceed_to_transaction",
+			"oubli",
+			"html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote,\npre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol,\nul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead,\ntr, th, td {\n    margin: 0;",
+			"mot de passe",
+			"13px",
+			"log in",
+			"sidebar",
+			"APP_REVISION",
+			"app_version",
+			"blurb",
+			"updates",
+			"update_log",
+			"home_login",
+			"update",
+			"ipn",
+			"update",
+			"browser",
+			"\"Open Sans\"",
+			"\"Helvetica Neue\",,",
+			"\"CartoGothicStd-Book\", \"Open Sans\"",
+			"\"Open Sans\", \"Segoe UI\"",
+			"\"Open Sans\", Verdana",
+			"\"Open Sans\", \"Segoe UI\", Tahoma",
+			"   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>\n",
+			"Segoe",
+			"\"Open Sans\", \"Segoe UI\", ",
+			"\"Segoe UI\", Tahoma",
+			"Segoe UI",
+			"woff",
+			".woff",
+			"woff",
+			"vector-image.svg",
+			"italic",
+			".ttf",
+			"truetype",
+			"font-weight: normal;",
+			"span",
+			".file_no",
+			"bold",
+			"\n    ",
+			"\"Segoe UI\"",
+			"Segoe",
+			"jflogo.gif",
+			"244",
+			"jflogo",
+			"logo",
+			"partition_terms",
+			"open(",
+			"SalesTaxRate",
+			"Payment::SalesTaxRate",
+			"SALES_TAX_RATES",
+			"SalesTaxRate",
+			"false",
+			"root}/",
+			"docs/",
+			"fr",
+			"t.",
+			"t",
+			"https",
+			"cache",
+			"RbConfig",
+			"dataDir",
+			"solr.solr.home",
+			"content_tag(:script",
+			"assignment_list",
+			"<script>",
+			"cache_sweeper",
+			"DocsTopicSweeper",
+			"topic_content",
+			"work_premium_refundable_credit",
+			"40365",
+			"39110",
+			"37850",
+			"36590",
+			"35325",
+			"34065",
+			"131260",
+			"rrq",
+			"32795",
+			"2435",
+			"1325",
+			"2085",
+			"11305"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"Helvetica Neue\",",
+			"\"Open Sans\", \"Helvetica Neue\",",
+			"\"CartoGothicStd-Book\", \"Open Sans\"",
+			"\"Open Sans\", \"Segoe UI\"",
+			"\"Open Sans\", Verdana",
+			"",
+			"\"Open Sans\", ",
+			"font-weight: 400;",
+			"jflogo.png",
+			"2015",
+			"\\n",
+			"Dette de {{party_name}} pour le partage",
+			"_(\"Déduction pour {{asset}}\", :asset => asset.description)",
+			"Déduction pour {{asset}}\", :asset => asset.description",
+			"Valeur marchande de l’actif au remploi",
+			"Valeur marchande de l’actif à l’apport",
+			"acquests",
+			"defendant",
+			":by_party_id",
+			"party.id",
+			"compensation",
+			"acquest",
+			"Asset.patrimony_categories",
+			"currency",
+			"@scenario.patrimony_state",
+			"if params[:partition] == 'family'",
+			"cet actif",
+			"@assets",
+			"@case_file, @scenario, asset",
+			"@form_data",
+			"form_data_form_iv",
+			"@data",
+			"nbsp_unless residence, ",
+			"nbsp_or ",
+			"nbsp_or",
+			"deponent",
+			"defendant",
+			"deponent",
+			"defendant",
+			"deponent",
+			"defendant",
+			"deponent",
+			"defendant",
+			"settlement_paid_by",
+			"by_party_id",
+			"partitionable",
+			"style=\"display: none\"",
+			"type=\"hidden\"",
+			"if @asset.tag == 'pension_plan'",
+			"new",
+			"_new",
+			"•",
+			">",
+			"<",
+			"exhibit",
+			"rgb(121, 1, 49)",
+			" ",
+			"specialty",
+			"speciality",
+			"rgba(0,0,0,0.4)",
+			"col_sep: APP_CONFIG[:csv][:col_sep]",
+			"APP_CONFIG[:csv][:col_sep]",
+			"\\n",
+			"",
+			"\\n",
+			"organization",
+			"Organization.friendly.find",
+			"event_sponsorships_attributes",
+			"event_sponsorship_attributes",
+			"country: \"CA\"",
+			"locale.to_s",
+			"Newsletter.friendly.find",
+			"ResearchTeam.friendly.find",
+			"Publication.friendly.find",
+			"Person.friendly.find",
+			"",
+			"[documents_attributes]",
+			"document",
+			"\"",
+			", \"",
+			"",
+			"\"",
+			", ",
+			"",
+			"document",
+			";",
+			"result",
+			"event",
+			"calendar_month",
+			"'except'",
+			"'checked=\"checked\"'",
+			"@yearly.nil?",
+			"@yearly",
+			"date",
+			"study",
+			"studies",
+			"study",
+			"studies",
+			"study",
+			"studies",
+			"study",
+			"studies",
+			"study",
+			"studies",
+			"study",
+			"studies",
+			"Studies",
+			"study",
+			"Study",
+			"event_theme",
+			"Salle",
+			"Building, Room",
+			"Building, room",
+			"\\1\\2 Building,",
+			"McGill University",
+			"\\1\\1",
+			"\", address_attributes: {street_address: \"805, rue Sherbrooke Ouest\", city: \"Montréal\", region: \"QC\", postal_code: \"H3A 0B9\", country: \"Canada\", addressable_type: \"Place\"}",
+			"\", address_attributes: {street_address: \"1001, rue Sherbrooke Ouest\", city: \"Montréal\", region: \"QC\", postal_code: \"H3A 1G5\", country: \"Canada\", addressable_type: \"Place\"}",
+			"\", address_attributes: {street_address: \"1455, de Maisonneuve Ouest\", city: \"Montréal\", region: \"QC\", postal_code: \"H3G 2T6\", country: \"Canada\", addressable_type: \"Place\"}",
+			"\", address_attributes: {street_address: \"2920, chemin de la Tour\", city: \"Montréal\", region: \"QC\", postal_code: \"H3T 1J4\", country: \"Canada\", addressable_type: \"Place\"}\n\", address_attributes: {street_address: \"2920, chemin de la Tour\", city: \"Montréal\", region: \"QC\", postal_code: \"H3T 1J4\", country: \"Canada\", addressable_type: \"Place\"}\n",
+			"\", address_attributes: {street_address: \"805, rue Sherbrooke Ouest\", city: \"Montréal\", region: \"QC\", postal_code: \"H3A 0B9\", country: \"Canada\", addressable_type: \"Place\"}",
+			"city: \"Montréal\", region: \"QC\", postal_code: \" ",
+			"\n\n",
+			"\\1//-",
+			".pane",
+			"incremental.search",
+			"search.icon",
+			".content"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/steph/Sites/zpdf/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								730,
+								730
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 148.0
+	},
+	"pinned_build_system": "",
+	"project": "zpdf.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"depro",
+				"config/deploy/production.rb"
+			],
+			[
+				"depst",
+				"config/deploy/staging.rb"
+			],
+			[
+				"payment",
+				"app/models/payment.rb"
+			],
+			[
+				"asse",
+				"app/models/asset.rb"
+			],
+			[
+				"viewsamoun",
+				"app/views/amounts/_amount.html.erb"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"data",
+				"lib/tasks/database.rake"
+			],
+			[
+				"admin",
+				"app/models/administrator.rb"
+			],
+			[
+				"sett",
+				"config/settings.yml"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"revi",
+				"app/models/rule_sets/fed/revision2015.rb"
+			],
+			[
+				"qcrev2015",
+				"app/models/rule_sets/qc/revision2015.rb"
+			],
+			[
+				"fedrev2015",
+				"app/models/rule_sets/fed/revision2015.rb"
+			],
+			[
+				"inter",
+				"app/models/interview.rb"
+			],
+			[
+				"party",
+				"app/models/party.rb"
+			],
+			[
+				"pay",
+				"app/models/payment.rb"
+			],
+			[
+				"settin",
+				"config/settings.yml"
+			],
+			[
+				"paym",
+				"app/models/payment.rb"
+			],
+			[
+				"en.str",
+				"config/locales/en/en.strings.yml"
+			],
+			[
+				"cap",
+				"Capfile"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"accoun",
+				"app/controllers/accounts_controller.rb"
+			],
+			[
+				"payctl",
+				"app/controllers/admin/payments_controller.rb"
+			],
+			[
+				"qcrevision",
+				"app/models/rule_sets/qc/revision2015.rb"
+			],
+			[
+				"revision2015",
+				"app/models/rule_sets/fed/revision2015.rb"
+			],
+			[
+				"sesne",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"strin",
+				"config/locales/en/en.strings.yml"
+			],
+			[
+				"update",
+				"app/views/public/pages/_update.html.erb"
+			],
+			[
+				"posts",
+				"app/views/public/pages/_posts.html.erb"
+			],
+			[
+				"comm",
+				"app/models/communication.rb"
+			],
+			[
+				"hom",
+				"app/views/public/pages/_home.fr.html.erb"
+			],
+			[
+				"home",
+				"app/views/public/pages/_home.en.html.erb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"membelo",
+				"app/models/member_lookup.rb"
+			],
+			[
+				"setting",
+				"config/settings.yml"
+			],
+			[
+				"sectl",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sesctl",
+				"test/functional/sessions_controller_test.rb"
+			],
+			[
+				"jf",
+				"public/images/JF_logo_new.svg"
+			],
+			[
+				"jurif",
+				"public/images/jurifamille_logo.svg"
+			],
+			[
+				"patrimo",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"casef",
+				"lib/case_file_broker.rb"
+			],
+			[
+				"staging",
+				"config/deploy/staging.rb"
+			],
+			[
+				"fssrev",
+				"app/models/rule_sets/fss/revision2015.rb"
+			],
+			[
+				"fss",
+				"app/models/fss_state.rb"
+			],
+			[
+				"deploy",
+				"config/deploy.rb"
+			],
+			[
+				"notif",
+				"app/mailers/notifications.rb"
+			],
+			[
+				"feed",
+				"app/views/layouts/_feedback.html.erb"
+			],
+			[
+				"base",
+				"public/stylesheets/base.css"
+			],
+			[
+				"admindocs",
+				"app/controllers/admin/docs_controller.rb"
+			],
+			[
+				"applic",
+				"config/application.rb"
+			],
+			[
+				"deplstg",
+				"config/deploy/staging.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"doc",
+				"app/controllers/docs_controller.rb"
+			],
+			[
+				"envir",
+				"config/environment.rb"
+			],
+			[
+				"sol",
+				"solr/conf/solrconfig.xml"
+			],
+			[
+				"r",
+				"Rakefile"
+			],
+			[
+				"book",
+				"app/models/docs/bookmark.rb"
+			],
+			[
+				"topic",
+				"app/models/docs/topic.rb"
+			],
+			[
+				"gemfil.",
+				"Gemfile.lock"
+			],
+			[
+				"patrimon",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"script",
+				"app/views/assets/_script.html.erb"
+			],
+			[
+				"asset",
+				"app/models/asset.rb"
+			],
+			[
+				"scectl",
+				"app/controllers/scenarios_controller.rb"
+			],
+			[
+				"en.string",
+				"config/locales/en/en.strings.yml"
+			],
+			[
+				"patrimonys",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"scen",
+				"app/models/scenario.rb"
+			],
+			[
+				"person",
+				"app/models/person.rb"
+			],
+			[
+				"case",
+				"app/models/case_file.rb"
+			],
+			[
+				"formiv",
+				"public/stylesheets/form_IV.css"
+			],
+			[
+				"app/views/pdf/form4/_notes_goods_deductions.erb",
+				"app/views/pdf/form4/_notes_goods_deductions.erb"
+			],
+			[
+				"ass",
+				"app/models/asset.rb"
+			],
+			[
+				"family",
+				"app/views/assets/_family_patrimony.html.erb"
+			],
+			[
+				"para",
+				"app/models/rule_sets/qc_para_fiscal_calc.rb"
+			],
+			[
+				"patrimony",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"scena",
+				"app/models/scenario.rb"
+			],
+			[
+				"acquct",
+				"app/controllers/pdf/acquests_controller.rb"
+			],
+			[
+				"form",
+				"public/stylesheets/form_IV.css"
+			],
+			[
+				"patrim",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"compens",
+				"app/views/assets/_compensation_details.html.erb"
+			],
+			[
+				"patr",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"scasex",
+				"app/models/scenario_asset_extension.rb"
+			],
+			[
+				"patrist",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"case_file",
+				"app/models/case_file.rb"
+			],
+			[
+				"scparex",
+				"app/models/scenario_party_extension.rb"
+			],
+			[
+				"scenarios/edit.html.erb",
+				"app/views/scenarios/edit.html.erb"
+			],
+			[
+				"assets.",
+				"public/stylesheets/assets.css"
+			],
+			[
+				"formcss",
+				"public/stylesheets/form_IV.css"
+			],
+			[
+				"assets",
+				"public/stylesheets/assets.css"
+			],
+			[
+				"sceasse",
+				"app/models/scenario_asset_extension.rb"
+			],
+			[
+				"qcsinco",
+				"app/views/amounts/_qcs_income_list.html.erb"
+			],
+			[
+				"amountsctl",
+				"app/controllers/amounts_controller.rb"
+			],
+			[
+				"qcs_inco",
+				"app/views/amounts/_qcs_income_list.html.erb"
+			],
+			[
+				"assectl",
+				"app/controllers/assets_controller.rb"
+			],
+			[
+				"sceass",
+				"app/models/scenario_asset_extension.rb"
+			],
+			[
+				"patst",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"asset.cs",
+				"public/stylesheets/assets.css"
+			],
+			[
+				"pubform",
+				"public/stylesheets/form_IV.css"
+			],
+			[
+				"scri",
+				"app/views/assets/_script.html.erb"
+			],
+			[
+				"assctl",
+				"app/controllers/assets_controller.rb"
+			],
+			[
+				"assetctl",
+				"test/functional/assets_controller_test.rb"
+			],
+			[
+				"formin",
+				"app/models/form_info.rb"
+			],
+			[
+				"qss",
+				"app/models/qss_state.rb"
+			],
+			[
+				"form3ctl",
+				"app/controllers/pdf/form3_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"_family",
+				"app/views/assets/_family_patrimony.html.erb"
+			],
+			[
+				"asset.",
+				"app/models/asset.rb"
+			],
+			[
+				"partim",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"fiscfor",
+				"app/views/fiscal_states/_adult_form.html.erb"
+			],
+			[
+				"_withou",
+				"app/views/scenarios/fss_guidelines/_without_child_support.html.erb"
+			],
+			[
+				"witho",
+				"app/views/pdf/fss_guidelines/_without_child_support.erb"
+			],
+			[
+				"_with",
+				"app/views/pdf/fss_guidelines/_with_child_support.erb"
+			],
+			[
+				"fssbase",
+				"app/models/rule_sets/fss/base_revision.rb"
+			],
+			[
+				"827pr",
+				"app/views/pdf/form8275/prepare.html.erb"
+			],
+			[
+				"qcs",
+				"app/models/qcs_state.rb"
+			],
+			[
+				"schectl",
+				"app/controllers/pdf/schedule_one_controller.rb"
+			],
+			[
+				"qss_state",
+				"app/models/qss_state.rb"
+			],
+			[
+				"form4ctl",
+				"app/controllers/pdf/form4_controller.rb"
+			],
+			[
+				"patrom",
+				"app/models/patrimony_state.rb"
+			],
+			[
+				"assets_fo",
+				"app/views/assets/_form.html.erb"
+			],
+			[
+				"form3cont",
+				"app/controllers/pdf/form3_controller.rb"
+			],
+			[
+				"form4cl",
+				"app/controllers/pdf/form4_controller.rb"
+			],
+			[
+				"pdfhel",
+				"app/helpers/pdf_helper.rb"
+			],
+			[
+				"party.",
+				"app/models/party.rb"
+			],
+			[
+				"pdfc",
+				"app/controllers/pdf/form4_controller.rb"
+			],
+			[
+				"pdfctl",
+				"test/functional/pdf_controller_test.rb"
+			],
+			[
+				"asseex",
+				"app/models/scenario_asset_extension.rb"
+			],
+			[
+				"quick",
+				"app/views/scenarios/_quick_nav.html.erb"
+			],
+			[
+				"fssst",
+				"app/models/fss_state.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/steph/Sites/conventio/dev/conventio-dev.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 454.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

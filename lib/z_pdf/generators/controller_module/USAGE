@@ -1,0 +1,9 @@
+Description:
+    Creates a module named PdfControllerMethods in lib/pdf_controller_module.rb 
+
+    The module can then be included in controller classes to provide methods
+    to send PDF content.
+
+Example:
+    `rails generate z_pdf:controller_module`
+
