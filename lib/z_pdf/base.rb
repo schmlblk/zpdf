@@ -27,11 +27,12 @@ module ZPdf #:nodoc:
     abstract!
 
     include AbstractController::Rendering
-    include AbstractController::Layouts
     include AbstractController::Helpers
     include AbstractController::Translation
     include AbstractController::AssetPaths
     include AbstractController::Logger
+
+    include ActionView::Layouts
 
     helper ZPdf::PdfHelper
 

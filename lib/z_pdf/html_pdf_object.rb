@@ -1,5 +1,4 @@
 require 'thread'
-require 'iconv'
 
 module ZPdf
 
@@ -55,8 +54,9 @@ module ZPdf
 
         cmd << " file:///#{html_files[:content].path} #{outfile_path}"
         puts "\n\nexecuting #{cmd}\n\n" if @verbose
-        # avoid errors on systems where command processor is not UTF-8
-       `#{Iconv.new('ISO-8859-1//TRANSLIT','UTF-8').iconv(cmd)}`
+        # TODO: check if errors can occur with systems where command processor is not UTF-8
+        # if so, we could force encoding to something else
+       `#{cmd}`
         if File.exists?(outfile_path)
           output = File.open(outfile_path,'rb') { |f| f.read }
           File.unlink(outfile_path)
@@ -103,7 +103,7 @@ module ZPdf
     end
 
     def self.find_wkhtmltopdf_executable
-      rbCfg = defined?(RbConfig) ?  RbConfig : Config
+      rbCfg = RbConfig
       if rbCfg::CONFIG['host_os'] =~ /mswin|mingw/ # windows?
         ENV['PATH'].split(';').each do |p|
           exec_path = File.join(p,'wkhtmltopdf.exe')
