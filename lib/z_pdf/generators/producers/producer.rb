@@ -6,7 +6,7 @@ module ZPdf
     class ProducerGenerator < Erb::Generators::Base
       source_root File.join(File.dirname(__FILE__),'templates')
 
-      argument :actions, :type => :array, :default => [], :banner => "method method"
+      argument :actions, :type => :array, :default => ['my_document'], :banner => "method method"
 
       def create_renderer_file
         template "producer_template.rb", File.join('app/pdf_producers', class_path, "#{file_name}.rb")
