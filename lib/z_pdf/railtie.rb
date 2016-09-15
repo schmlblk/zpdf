@@ -4,6 +4,7 @@ require "rails"
 module ZPdf
   class Railtie < Rails::Railtie
     config.zpdf = ActiveSupport::OrderedOptions.new
+    config.eager_load_namespaces << ZPdf
 
     initializer "zpdf.set_configs" do |app|
       paths   = app.config.paths
@@ -14,8 +15,10 @@ module ZPdf
 
       ActiveSupport.on_load(:zpdf) do
         include app.routes.url_helpers
-        prepend_view_path pdf_views_path
-        options.each { |k,v| send("#{k}=", v) }
+        append_view_path pdf_views_path
+        options.each { |k,v|
+          send("#{k}=", v)
+        }
       end
     end
 
