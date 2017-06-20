@@ -12,7 +12,7 @@ http://wkhtmltopdf.org/
 ## Requirements
 
  * wkhtmltopdf 0.9.6 or later
- * Rails 3.0.3 or later
+ * Rails 4.1.0 or later
 
 ## Creating PDF documents
 
@@ -49,8 +49,12 @@ The `ZPdf::Base#generate` method takes a Hash of parameters. Possible values are
 
     :header_template :  The file name of the Erb template to use to render the header
                         section of all PDF pages. Can be nil.
-    :header_template :  The file name of the Erb template to use to render the footer
+                        NOTE: The html template must be a full HTML document and must
+                        contain `<!doctype html>`.
+    :footer_template :  The file name of the Erb template to use to render the footer
                         section of all PDF pages. Can be nil.
+                        NOTE: The html template must be a full HTML document and must
+                        contain `<!doctype html>`.
     :template_path   :  Use a directory other than the under_scored class name.
     :template_name   :  Use a template named other than the action name.
     :pdf_params      :  A Hash containing the command line parameters to be
@@ -63,9 +67,9 @@ documents and saved as temporary files which are then passed to wkhtmltopdf as
 the 'header-html' and 'footer-html' parameters (see wkhtmltopdf documentation).
 This allows to use Erb to render their content.
 
-You could also omit the header and footer templates, but use pure HTML header
-and footer documents passed through directly by including their full path as
-the 'header-html' and 'footer-html' in the `:pdf_params` Hash.
+You can also omit the `header_template` and `footer_template` parameters, but
+use pure HTML header and footer documents passed through directly by including
+their full path as the `'header-html'` and `'footer-html'` in the `:pdf_params` Hash.
 
 Calling `generate` returns a instance of `ZPdf::HtmlPdfObject`, which has methods
 for accessing and manipulating the produced HTML and convert it to a PDF stream:
@@ -94,7 +98,7 @@ ZPdf comes with a Rails generator to quickly create the basis for a PDF
 producer:
 
 ```ruby
-rails generate z_pdf:producer MyPdfProducer invoice receipt
+rails generate zpdf:producer MyPdfProducer invoice receipt
 ```
 
 This would create the file app/my_pdf_producer.rb with 2 stubbed methods, along
@@ -107,7 +111,7 @@ for header-html and footer-html parameters for more information.
 Using the provided rails generator:
 
 ```ruby
-rails generate z_pdf:controller_module
+rails generate zpdf:controller_module
 ```
 
 This will create a module in `lib/pdf_controller_methods.rb`, which declares
@@ -155,24 +159,33 @@ in a style tag:
 
 ## Configuration
 
-The Base class has the following settings:
+Create an initializer in `config/initializers` to specify the configuration values.
+
+`ZPdf` has the following configuration values:
 
 ```ruby
-ZPdf::Base.config = {
-  :pdf_views_path   => 'app/views' # defaults to 'app/views'
-  :wkhtmltopdf_path => 'wkhtmltopdf' # path to wkhtmltopdf executable
-}
+# pdf_views_path defaults to 'app/views'
+ZPdf::Base.pdf_views_path  = 'path/to/pdf/views' # relative to Rails.root
+
+# path to wkhtmltopdf executable
+# if nil, then ZPdf will try to find it automatically, as long as it is on the path
+ZPdf::Base.wkhtmltopdf_path  = '/path/to/executable'
+```
+
+The correct usage, so that Rails generators pick up these values, you should always
+set them in an initializer or through config/application.rb, using:
+
+```ruby
+Rails.application.config.zpdf.pdf_views_path = 'path/to/pdf/views'
+Rails.application.config.zpdf.wkhtmltopdf_path = 'path/to/wkhtmltopdf/executable'
 ```
 
 Because producing PDF from HTML may have nothing to do with the graphic style
-of your application as seen on the Web, the `:pdf_views_path` allows you to
-specify a base directory in which all PDF templates will reside. This allows to
-cleanly separate all your templates to produce PDF's from those used for your
-actual application pages. If you do not change the `:pdf_views_path`, it will
+of your application as seen on the Web, `pdf_views_path` allows you to
+specify a base directory under which all PDF templates will reside. This allows to
+cleanly separate all your templates to produce PDFs from those used for your
+actual application pages. If you do not change `pdf_views_path`, it will
 remain as the Rails default (`app/views`).
-
-Either create an initializer in `config/initializers` or use `application.rb` to
-specify the configuration values.
 
 ## Download and installation
 

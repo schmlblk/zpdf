@@ -1,6 +1,6 @@
 require 'rails/generators/base'
 
-module ZPdf
+module Zpdf
   module Generators
     class ControllerModuleGenerator < Rails::Generators::Base
       source_root File.join(File.dirname(__FILE__),'templates')

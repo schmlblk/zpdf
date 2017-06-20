@@ -1,5 +1,5 @@
-require 'z_pdf/html_pdf_object'
-require 'z_pdf/z_pdf_helper'
+require 'zpdf/html_pdf_object'
+require 'zpdf/zpdf_helper'
 
 module ZPdf #:nodoc:
   #
@@ -91,7 +91,7 @@ module ZPdf #:nodoc:
     end
 
     def process(*args) #:nodoc:
-      lookup_context.skip_default_locale!
+      lookup_context.skip_default_locale! if lookup_context.respond_to?(:skip_default_locale!)
       super
     end
 
@@ -119,6 +119,7 @@ module ZPdf #:nodoc:
       template_names.each_pair do |part_name,template_name|
         unless template_name.nil?
           if template = lookup_context.find_all(template_name,templates_path).first
+            puts "found #{template}"
             parts[part_name] = render(:template => template)
           else
             raise MissingTemplate.new(self.class,lookup_context.view_paths,part_name,templates_path,template_name)

@@ -1,7 +1,7 @@
 require 'rails/generators/base'
 require 'rails/generators/erb'
 
-module ZPdf
+module Zpdf
   module Generators
     class ProducerGenerator < Erb::Generators::Base
       source_root File.join(File.dirname(__FILE__),'templates')

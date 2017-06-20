@@ -16,9 +16,8 @@ module ZPdf
       ActiveSupport.on_load(:zpdf) do
         include app.routes.url_helpers
         append_view_path pdf_views_path
-        options.each { |k,v|
-          send("#{k}=", v)
-        }
+        # Send options to corresponding ZPdf::Base methods
+        options.each { |k,v| send("#{k}=", v) }
       end
     end
 

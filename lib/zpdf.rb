@@ -6,14 +6,12 @@ require 'active_support/core_ext/module/attr_internal'
 require 'active_support/lazy_load_hooks'
 require 'abstract_controller'
 require 'action_view'
-require 'z_pdf/version'
-require 'z_pdf/railtie'
+require 'zpdf/version'
+require 'zpdf/railtie'
 
 module ZPdf
   extend ::ActiveSupport::Autoload
 
-  autoload :Base
-#  autoload :TestCase
-#  autoload :TestHelper
+  autoload :Base, 'zpdf/base'
 end
 

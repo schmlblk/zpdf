@@ -44,7 +44,7 @@ module ZPdf
         outfile_path = html_files[:content].path + '.pdf' # append correct extension to temp file name
         wk_params['header-html'] = html_files[:header].nil? ? nil : "file:///#{html_files[:header].path}"
         wk_params['footer-html'] = html_files[:footer].nil? ? nil : "file:///#{html_files[:footer].path}"
-        wk_params['quiet']       = true
+        wk_params['quiet']       = true unless wk_params['quiet'] == false
 
         cmd = "#{self.class.wkhtmltopdf_path}"
         wk_params.each_pair do |k,v|
