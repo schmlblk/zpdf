@@ -1,5 +1,5 @@
 
-# 4.1.6 (June 20, 2016)
+# 4.1.6 (June 20, 2017)
 
 * Updated to work with Rails 5.0 and 5.1
 * Normalized autoload'ing to use 'zpdf/' path instead of 'z_pdf'
