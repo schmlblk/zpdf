@@ -112,7 +112,7 @@ module ZPdf #:nodoc:
       parts = {}
 
       # TODO : support inline content
-      templates_path = params.delete(:template_path) || self.class.generator_name
+      templates_path = params.delete(:templates_path) || self.class.generator_name
       template_names = { :content => params.delete(:template_name) || action_name,
                          :header  => params.delete(:header_template),
                          :footer  => params.delete(:footer_template) }
