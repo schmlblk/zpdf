@@ -1,4 +1,8 @@
 
+# 4.1.7 (June 20, 2017)
+
+* Removed a trace `puts` causing unnecessary logging
+
 # 4.1.6 (June 20, 2017)
 
 * Updated to work with Rails 5.0 and 5.1

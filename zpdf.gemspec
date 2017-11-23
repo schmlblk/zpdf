@@ -3,7 +3,7 @@ rails_version = '4.1.0'
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'zpdf'
-  s.version     = '4.1.6'
+  s.version     = '4.1.7'
   s.summary     = 'HTML-based PDF rendering engine (using wkhtmltopdf)'
   s.description = 'ZPdf allows to produce PDF content based on ERB templates. It easily integrates into a Rails application and operates on a paradigm very similar to Rails ActionMailer.'
 
